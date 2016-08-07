@@ -1,4 +1,4 @@
-Exploratory Data Analysis
+Exploratory Data Analysis- Data Project 1
 =========================
 
 This is my repository for the Coursera's course "Exploratory Data Analysis". There are 8 files for the Course Project 1: 4 R scripts and 4 .png files of the graphs.
